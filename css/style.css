@@ -1,0 +1,16 @@
+.montserrat-<uniquifier> {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  
+.green{
+    background-color: rgb(199, 223, 215);
+}
+.headgreen{
+    color: rgb(9, 134, 92);
+}
+span{
+    color: blueviolet;
+}
